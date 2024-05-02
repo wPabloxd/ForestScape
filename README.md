@@ -1,3 +1,6 @@
+This is a portfolio version of the project. All the Asset Store assets, sounds, animations, models and textures were excluded.
+
+
 Shield: [![CC-BY-NC-ND 4.0][CC-BY-NC-ND-shield]][CC-BY-NC-ND]
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.][CC-BY-NC-ND]
